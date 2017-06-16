@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png",
+        "source": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png"
+    },
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/node_modules_reactnativeexperimentalnavigation_assets_back.png",
+        "source": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativeexperimentalnavigation_assets_back.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

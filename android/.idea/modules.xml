@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UndergroundCellarApp.iml" filepath="$PROJECT_DIR$/UndergroundCellarApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-awesome-card-io/android/react-native-awesome-card-io.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-awesome-card-io/android/react-native-awesome-card-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-blur/android/react-native-blur.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-blur/android/react-native-blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-share-actions/android/react-native-share-actions.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-share-actions/android/react-native-share-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-wheel-picker-android/android/react-native-wheel-picker-android.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-wheel-picker-android/android/react-native-wheel-picker-android.iml" />
+    </modules>
+  </component>
+</project>

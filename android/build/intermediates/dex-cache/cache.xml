@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/bc03d792afa00b2e8e33c79431edb052fe664c46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_80baace9ee21eecb3309ad09a5cf385bd27a4560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_d4d4b80e03429a20063a05cd9e1b1cb66b2118db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-wheel-picker-android/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01276aedf6f5b664d051252f0ff08d7e2c2e0295">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_f373d19dcd2bb2607e31582ea762f81c1df9fc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/3354c8b04a27c3ec3e9dc3bddcb26202ee86fc6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_90b4834ad01dfde6c615649a2dc1c1f6e801e008.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/30cc53f507666246d035584c91dc91c076a4acd1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce0eadc1a5ca89dc9f2c7cb6bdad2944cf4402c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/632c08eea7cae3c25fe7d8811e396bc5de697786/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b31ccd7a2b1b5e45c535e287a90f3183b1a99273/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c96bf113f05e40045462a513392d389d3090bd69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_0ea3b399f7032794fa1be4720231090b52961868.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/b4e95556237c35e74e5dc2bfc92714d2a999365e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b141a4bc717417c81c7a79281b1fd267c38e34d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/59b6c8a54a35541740976621a63a06aad6e6f54b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c262a6e6973244461ed38787dd458313a5db72a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/6e01e11a3c90e09f6f17de09ff39f7b5a7f27bec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60a5d13a4b1e9d9a09e15efc72069c7d528a1c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/aaa31b528fdf9360bfab39a519f79d3922b44709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_ba2da3bdaf4c6777e414755c5d6dd4e68a1f5d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/40ec8bb4a1ee34b2ef7e22d3528f20142395e2d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_4ced03d11832b158bed400299b44fc33decbff86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/aa03f93c3feac15c8dd1ff00bc4983aa2e9daca7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_07c4a65a8f89d700b6e558df67a12cd9833fb098.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0dd8a45ed3a3cae50e2e8697185b837faffe1e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_15182dc31b50da23c5ee2054c03f9fb69ef97092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/8bdf97e313308cd6b572471858aafa45a2588522/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_91d044b3331462e7373ec762c353ea99ae5ccd0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/28264a52e2bfc525737a83ec6053a4ed395a0b87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2cbbf5e4431d3ec9bf516f8e7a3bc3696223c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/c4ebee06c6523cb95f97e31f67558b972610f0d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25bb5a9cbecbf90a0a1e9fcda8a559ac43a6a63b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/a01d4ee0f9440a89d96c3f2cafc739abfc6dd2f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_92f6519b9bafebf2ed4163608685e798e908f456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/0bc973ade6fe3194911bb69328e0a043696be653/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_1a79e74d433b9c6f1f77e1dbdc3bd408bbb135a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_96740cbbf62002378e4d66d786f9abda5427647a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-share-actions/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33fc0548b67200ea6bd1a15c08ddda147d63c7c6">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_e6f47be9470557ceea924a36e7b052e02db3832c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_109aecb7c06009492debd495e5f714e4394363f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_11e56b343fe2fcf82f832f6fb3a73df11fa83de0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/32ccf85a19440a8bb7064997cf150077b69020ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77ac667346a806488c3e3b858cfbb5036f85234f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c06ad459bcfb771a70710adcb7ff2f7f14b3bb35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_4c4bd642f49efb5d006a194e8ca48fb6474adf4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/8bc3c403a6bd5ae3d78c024dcef0fb38455b0fa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c27aea45fb254d37cb280bdd770a358d9b0fd2e">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_e58ba7da655e40b2ce55958040c98e5d71ac566d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/0bc973ade6fe3194911bb69328e0a043696be653/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_9d571c3e2ab051a3098acdb281f0c75a46639334.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1d0e018e4ffdfc09330b64e5c4567ab660df6b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/23a593b23209f416901c50b41890465f4e88f98e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f64584839d3f8af9f8ef41c3934cc6a1625b37ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/108bbd7b74b004fa58ea588edb3225c88796cb67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_ab55f7b6d76f0dac20a434a85d276f492f242b42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/c13215ad626b1e4d243b15838183b739c84ae947/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d56a852196bb5887e34fee0b7df0cef75ecdb9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/422fa376fc6a73fc2d82827ed0c8a27761fcb42a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26f39fdf1d5d8ec12a85cf053ffb7ff9584046fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/40ec8bb4a1ee34b2ef7e22d3528f20142395e2d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ced03d11832b158bed400299b44fc33decbff86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/aa03f93c3feac15c8dd1ff00bc4983aa2e9daca7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07c4a65a8f89d700b6e558df67a12cd9833fb098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e5dd937c3d14b99706a2231b92b7a3392144d14">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85b612bafbbbbe000b1b89ff07911ef6a6f2472d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/59b6c8a54a35541740976621a63a06aad6e6f54b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_0c262a6e6973244461ed38787dd458313a5db72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/b4e95556237c35e74e5dc2bfc92714d2a999365e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_b141a4bc717417c81c7a79281b1fd267c38e34d7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/a7f4765f90a87c98594623ee1fb039a8412f9f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa950cf3431262df0a42ab21753943b3f3d0785b">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a6827f5b08a2bd147b280eab538fec7dc1af0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_dfa7e557e62aaf00e6b8dae40ade4aa87d88915c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/f223814a2b3323b9575efaa115e4b581a0f52845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_2251db1ea5507a9108358e2b15cbc5dbc11c250e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/fdbe5e34f0b40a56ac8264ac35adbb0f577331f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_695aeb77ca37113952951016f6e547eb09fc7ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_15537a56100fb3e19f877ca83717f1866fd338e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/66aef67373a07734c2e2e7c4814e3de2b632ebe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_d0fee5d09d870a9337c78a257af020107336010e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/865c996d0838c23d7e41ebf563b7ddc4ea7e32cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24407bceb89e6fa31e2e687bf4966c47bf13b621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_e81bff05efbab1ffac9da8a1bb94ed0e4d6682bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/5d574f0479cc04bdb9bd1998507db412b3405fe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_1b4782664fc70b90a60be0b208ab5e75701f37c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/c96bf113f05e40045462a513392d389d3090bd69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ea3b399f7032794fa1be4720231090b52961868/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/632c08eea7cae3c25fe7d8811e396bc5de697786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_b31ccd7a2b1b5e45c535e287a90f3183b1a99273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_0dd8a45ed3a3cae50e2e8697185b837faffe1e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/865c996d0838c23d7e41ebf563b7ddc4ea7e32cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_24407bceb89e6fa31e2e687bf4966c47bf13b621.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/WORK_2/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9ddd1b4c67cd096e2b080004d89de4b91ddf41ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_d4d4b80e03429a20063a05cd9e1b1cb66b2118db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/6e01e11a3c90e09f6f17de09ff39f7b5a7f27bec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_60a5d13a4b1e9d9a09e15efc72069c7d528a1c4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/0bc973ade6fe3194911bb69328e0a043696be653/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a79e74d433b9c6f1f77e1dbdc3bd408bbb135a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/30cc53f507666246d035584c91dc91c076a4acd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_ce0eadc1a5ca89dc9f2c7cb6bdad2944cf4402c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/aaa31b528fdf9360bfab39a519f79d3922b44709/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba2da3bdaf4c6777e414755c5d6dd4e68a1f5d88/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="827e2ad2af78be16363b4f163c1bfc3f053e2191">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_d43707b137ab141c1a5cf2f3b4be3d89f2ed0152.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/3354c8b04a27c3ec3e9dc3bddcb26202ee86fc6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90b4834ad01dfde6c615649a2dc1c1f6e801e008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_96740cbbf62002378e4d66d786f9abda5427647a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-awesome-card-io/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93a64ccee483b1c271c25134497f583bcf7a738f">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_27320916244f04fda2d5c9ef19e6271a3bf99372.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/a01d4ee0f9440a89d96c3f2cafc739abfc6dd2f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f6519b9bafebf2ed4163608685e798e908f456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_ba571e4dba5a34e3de270190774c77286d1cdc25/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dad9f9a29c1127ded2e4d87dd137b2758f604f55">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_156b9b17692679fa795dd6821039aa6aba81e346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/28264a52e2bfc525737a83ec6053a4ed395a0b87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_b2cbbf5e4431d3ec9bf516f8e7a3bc3696223c29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_15182dc31b50da23c5ee2054c03f9fb69ef97092/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/b5fb5a9f341610390066f47478c95aa501152700/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_109aecb7c06009492debd495e5f714e4394363f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-blur/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2691631383e5d0c10752783a9ad175484ed8cb46">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_ca097200a05f72d224f0c516ab78f4558a6ad821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/javax.inject-1_11e56b343fe2fcf82f832f6fb3a73df11fa83de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/32ccf85a19440a8bb7064997cf150077b69020ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_77ac667346a806488c3e3b858cfbb5036f85234f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-push-notification/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ccee4d65be6511d140a5c9cfcc67cc3406bc1d2">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_bd5b1acfbdce246de85dc53f09064045975603f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/bc03d792afa00b2e8e33c79431edb052fe664c46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80baace9ee21eecb3309ad09a5cf385bd27a4560/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c13215ad626b1e4d243b15838183b739c84ae947/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_8d56a852196bb5887e34fee0b7df0cef75ecdb9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/108bbd7b74b004fa58ea588edb3225c88796cb67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab55f7b6d76f0dac20a434a85d276f492f242b42/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/23a593b23209f416901c50b41890465f4e88f98e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_f64584839d3f8af9f8ef41c3934cc6a1625b37ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/c06ad459bcfb771a70710adcb7ff2f7f14b3bb35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c4bd642f49efb5d006a194e8ca48fb6474adf4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/0bc973ade6fe3194911bb69328e0a043696be653/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_9d571c3e2ab051a3098acdb281f0c75a46639334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/8bc3c403a6bd5ae3d78c024dcef0fb38455b0fa1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c27aea45fb254d37cb280bdd770a358d9b0fd2e">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e58ba7da655e40b2ce55958040c98e5d71ac566d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/library-2.4.0_1d0e018e4ffdfc09330b64e5c4567ab660df6b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c4ebee06c6523cb95f97e31f67558b972610f0d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_25bb5a9cbecbf90a0a1e9fcda8a559ac43a6a63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_ba571e4dba5a34e3de270190774c77286d1cdc25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/8bdf97e313308cd6b572471858aafa45a2588522/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91d044b3331462e7373ec762c353ea99ae5ccd0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78f41945988c13e3466472a1bfb49f9b568d6798/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_6116b56f414f97e60b7b5addbcf4b37bf209380f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0_e81bff05efbab1ffac9da8a1bb94ed0e4d6682bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_dfa7e557e62aaf00e6b8dae40ade4aa87d88915c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/fdbe5e34f0b40a56ac8264ac35adbb0f577331f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_695aeb77ca37113952951016f6e547eb09fc7ba2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/f223814a2b3323b9575efaa115e4b581a0f52845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2251db1ea5507a9108358e2b15cbc5dbc11c250e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/66aef67373a07734c2e2e7c4814e3de2b632ebe6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0fee5d09d870a9337c78a257af020107336010e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/a7f4765f90a87c98594623ee1fb039a8412f9f79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa950cf3431262df0a42ab21753943b3f3d0785b">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_56a6827f5b08a2bd147b280eab538fec7dc1af0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/422fa376fc6a73fc2d82827ed0c8a27761fcb42a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/classes_26f39fdf1d5d8ec12a85cf053ffb7ff9584046fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.android/build-cache/5d574f0479cc04bdb9bd1998507db412b3405fe6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b4782664fc70b90a60be0b208ab5e75701f37c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_15537a56100fb3e19f877ca83717f1866fd338e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_2/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_9ddd1b4c67cd096e2b080004d89de4b91ddf41ff.jar" />
+    </item>
+
+</items>

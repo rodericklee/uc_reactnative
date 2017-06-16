@@ -1,0 +1,7 @@
+#Fri Jun 16 07:12:48 EEST 2017
+base.0=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85b612bafbbbbe000b1b89ff07911ef6a6f2472d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78f41945988c13e3466472a1bfb49f9b568d6798/classes.dex
+base.1=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78f41945988c13e3466472a1bfb49f9b568d6798
+file.0=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85b612bafbbbbe000b1b89ff07911ef6a6f2472d/classes.dex

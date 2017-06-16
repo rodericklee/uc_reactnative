@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 33,
+                    "endOffset": 84
+                },
+                "from": {
+                    "file": "/Users/alexey/.android/build-cache/8bc3c403a6bd5ae3d78c024dcef0fb38455b0fa1/output/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 33,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 89,
+                    "endColumn": 35,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/Users/alexey/.android/build-cache/8bc3c403a6bd5ae3d78c024dcef0fb38455b0fa1/output/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 35,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 34,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/alexey/.android/build-cache/8bc3c403a6bd5ae3d78c024dcef0fb38455b0fa1/output/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 34,
+                        "endOffset": 155
+                    }
+                }
+            }
+        ]
+    }
+]

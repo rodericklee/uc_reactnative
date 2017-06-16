@@ -1,0 +1,4 @@
+#Fri Jun 16 07:12:43 EEST 2017
+base.0=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Volumes/WORK_4/ReactNative/UndergroundCellar/proj/UndergroundCellar_ts/uc_reactnative/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
